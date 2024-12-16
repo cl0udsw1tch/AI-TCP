@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.cloudswitch.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast\target\test-classes;C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast\target\classes;C:\Users\nurei\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\nurei\.m2\repository\com\github\javaparser\javaparser-core\3.14.0\javaparser-core-3.14.0.jar;C:\Users\nurei\.m2\repository\org\json\json\20240303\json-20240303.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="sun.java.command" value="C:\msys64\tmp\surefire10188573460390446450\surefirebooter-20241216180539826_3.jar C:\msys64\tmp\surefire10188573460390446450 2024-12-16T18-05-39_537-jvmRun1 surefire-20241216180539826_1tmp surefire_0-20241216180539826_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast\target\test-classes;C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast\target\classes;C:\Users\nurei\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\nurei\.m2\repository\com\github\javaparser\javaparser-core\3.14.0\javaparser-core-3.14.0.jar;C:\Users\nurei\.m2\repository\org\json\json\20240303\json-20240303.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\nurei"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\msys64\tmp\surefire10188573460390446450\surefirebooter-20241216180539826_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="user.name" value="nurei"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\nurei\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\msys64\tmp\"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="user.dir" value="C:\Users\nurei\Documents\MIE\ECE1508\project\code2ast"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\nurei\miniconda3\envs\test;C:\Users\nurei\miniconda3\envs\test\Library\mingw-w64\bin;C:\Users\nurei\miniconda3\envs\test\Library\usr\bin;C:\Users\nurei\miniconda3\envs\test\Library\bin;C:\Users\nurei\miniconda3\envs\test\Scripts;C:\Users\nurei\miniconda3\envs\test\bin;C:\msys64\mingw64\bin;C:\msys64\usr\local\bin;C:\msys64\usr\bin;C:\msys64\usr\bin;C:\Users\nurei\miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\libnvvp;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Python311\Scripts;C:\Python311;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\dotnet;C:\ProgramData\chocolatey\bin;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.4.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\lib\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include;C:\Program Files\starship\bin;C:\Program Files\lua;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\GnuPG\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Python311\include;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.1.0;C:\Program Files\MATLAB\R2024b\bin;C:\Users\nurei\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\nurei\AppData\Local\Programs\Python\Python310;C:\Users\nurei\AppData\Local\Microsoft\WindowsApps;C:\Users\nurei\.dotnet\tools;C:\Users\nurei\AppData\Roaming\npm;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Users\nurei\AppData\Local\Android\Sdk\platform-tools;C:\Users\nurei\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\src\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\nurei\AppData\Roaming\Pub\Cache\bin;C:\Program Files\Google Protobuf\bin;C:\Program Files\starship\bin;C:\Users\nurei\.pyenv\pyenv-win\bin;C:\Users\nurei\.pyenv\pyenv-win\shims;C:\users\nurei\.local\bin;C:\msys64\mingw64\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\Users\nurei\AppData\Local\Pandoc;C:\Users\nurei\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\Hostx64\x64;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build;C:\Users\nurei\miniconda3;C:\Users\nurei\miniconda3\Scripts;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Users\nurei\miniconda3\envs\test;C:\Users\nurei\miniconda3\envs\test\Lib\site-packages\glCuda;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin;C:\Users\nurei\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\nurei\Graphviz-12.2.1-win64\bin;C:\msys64\usr\bin\site_perl;C:\msys64\usr\bin\vendor_perl;C:\msys64\usr\bin\core_perl;C:\Program Files\Java\jdk-17.0.5\bin;C:\msys64\home\nurei\apache-maven-3.8.8\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\msys64\home\nurei\apache-maven-3.8.8\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.cloudswitch.AppTest" time="0.002"/>
+</testsuite>

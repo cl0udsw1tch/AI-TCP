@@ -1,0 +1,7 @@
+*.png
+.vscode
+*.ipynb
+*.zip
+ECE1508_Final_Report.pdf
+/data
+java_code.pdf
